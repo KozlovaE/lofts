@@ -1,5 +1,9 @@
 package ru.kisa.lofts;
 
+//ета комментарий
+/*ета
+ ещё комментар
+ий*/
 public class Admin {
     final String name;
     final String phone;
